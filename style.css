@@ -212,7 +212,7 @@ footer {
     }
 }
 .skill-circle {
-    animation: flip-spin 10s ease-in-out infinite;
+    animation: flip-spin 30s ease-in-out infinite;
 }
 
 /* Experience Section */
